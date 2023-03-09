@@ -8,7 +8,7 @@
     scroll-behavior: smooth;
     cursor: none;
     /* Init variables */
-    --primary : #9572F8;
+    --primary : red;
     --secondary: #CAB8FB;
     --light: #FEFEFE;
 }
