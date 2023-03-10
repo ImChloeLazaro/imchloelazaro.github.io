@@ -49,12 +49,12 @@ img{
   height: auto;
   width: 50vh;
 }
-.project_description{
+/* .project_description{
   position: absolute;
   top: 2rem;
   display: none;
   transition: 1s;
-}
+} */
 
 footer{
   height: auto;
